@@ -19,7 +19,7 @@ email:
 markdown: kramdown
 kramdown:
     input: GFM
-paginate: 12
+paginate: 9
 permalink: /:year/:month/:day/:title/
 plugins:
     - jekyll-paginate
